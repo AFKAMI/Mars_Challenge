@@ -1,5 +1,5 @@
 # Mars_Challenge
-
+https://compote.slate.com/images/c205aed3-b2a4-4b1…9741e3.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1280
 # Part 1: Scrape Titles and Preview Text from Mars News
 # Part 2: Scrape and Analyze Mars Weather Data
 
